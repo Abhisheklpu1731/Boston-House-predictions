@@ -80,7 +80,7 @@ The visualization of the data set is implemented in a separate file: <a href="[h
 
 * [Python](python)
 * [Flask](flask)
-* [heroku](heroku)
+
 
 
 
@@ -104,16 +104,6 @@ Version python 3.8 <
 * matplotlib
 * flask
 
-### Installation
- 
-1. Clone the repo
-```
-git clone https://github.com/thenomaniqbal/boston-housing-price-prediction.git
-
-```
-2. Install Python Libraries
-```
-pip install pandas, sklearn, numpy, matplotlib, flask, gunicorn, scipy
 
 ```
 
@@ -127,12 +117,7 @@ import pickle
 ```
 
 
-<!-- CONTACT -->
-## Contact
 
-thenomaniqbal@gmail.com
-
-Link: [https://github.com/thenomaniqbal/](https://github.com/thenomaniqbal/)
 
 
 ## References
