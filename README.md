@@ -8,27 +8,7 @@
 
   <h3 align="center">Boston House Price Prediction</h3>
 
-  <p align="center">
-    In this project i've tried to predict the prices of houses in Boston data set and deployed an end to end machine learning model using flask and heroku....
-    <br />
-    <a href="https://housepriceprediction404.herokuapp.com/"><strong>View Deployment On Heroku »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/thenomaniqbal/boston-housing-price-prediction/">View Codes</a>
-    ·
-    <a>Report Bug / Documentation / Paper -> thenomaniqbal@gmail.com</a>
-    
-  </p>
-</p>
 
-## 📸 Demo
-<p align="center">
-  <a href="https://github.com/thenomaniqbal/boston-housing-price-prediction/">
-    <img src="images/heroku.PNG" alt="Heroku-implementation">
-  </a>
- </p>
- 
-<!-- TABLE OF CONTENTS -->
 ## 📝 Table of Contents
 
 * [About the Project](#about-the-project)
